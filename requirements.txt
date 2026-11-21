@@ -1,0 +1,8 @@
+langhchain
+langgraph
+langhchain_core
+langhchain_community
+python-dotenv
+langhchain-groq
+arxiv
+wikipedia
